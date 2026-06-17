@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# ARES-(UPDATE SOON)
+>>>>>>> ccce0945781341217e8a240ddc47ece6eb913263
 # ARES
 
 ARES is an advanced ESP32-powered research and development project focused on intelligent monitoring, automation, and real-world problem solving.
@@ -44,4 +48,8 @@ The objective of ARES is to explore practical applications of modern embedded sy
 
 Additional details, documentation, and demonstrations will be published as development progresses.
 
+<<<<<<< HEAD
 Website updates coming soon.
+=======
+Website updates coming soon.
+>>>>>>> ccce0945781341217e8a240ddc47ece6eb913263

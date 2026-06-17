@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## ARES-PRESENTATION SPEECH
 
 # INTRODUCTION
@@ -120,3 +121,8 @@ it costs rs. 3,500.so every station can have one.
 it saves the golden hour.so survivors have a chance.
 
 Thank you."
+=======
+#ARES
+
+ARES is an adavced esp32 powerd research and deplyoment project focused on intelligent monitorinh, autoamtion , and real world problem solving.
+>>>>>>> ccce0945781341217e8a240ddc47ece6eb913263
